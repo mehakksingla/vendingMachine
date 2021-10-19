@@ -1,3 +1,0 @@
-A::TestItem1::3.50::5
-B::TestItem2::2.50::6
-C::TestItem3::1.75::0
